@@ -1,4 +1,4 @@
-# iamlooper.github.io
+# pred.github.io
 Website made by me for me :)
 
 ## Tools Used
